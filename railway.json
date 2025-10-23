@@ -1,0 +1,6 @@
+{
+  "build": {
+    "builder": "nixpacks"
+  },
+  "start": "go build -o binance-proxy && ./binance-proxy"
+}
